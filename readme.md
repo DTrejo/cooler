@@ -6,7 +6,8 @@
 - print the lines you wrote in green
 - print the lines in node core in grey
 
-e.g.
+
+![picture of cooler in action](screenshot.png)
 
 ### Usage
 
