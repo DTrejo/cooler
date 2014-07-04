@@ -1,0 +1,34 @@
+{
+  "name": "cooler",
+  "version": "0.0.0",
+  "description": "prints error stack traces with green for your code, red for the error message, grey for node core, and normal color for everything else",
+  "main": "cooler.js",
+  "dependencies": {
+    "colors": "^0.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DTrejo/cooler.git"
+  },
+  "keywords": [
+    "error",
+    "stack",
+    "color",
+    "grey",
+    "green",
+    "red",
+    "node_modules",
+    "cooler",
+    "cool"
+  ],
+  "author": "David Trejo & Mehul Kar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DTrejo/cooler/issues"
+  },
+  "homepage": "https://github.com/DTrejo/cooler"
+}
