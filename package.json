@@ -1,6 +1,6 @@
 {
   "name": "cooler",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "prints error stack traces with green for your code, red for the error message, grey for node core, and normal color for everything else",
   "main": "cooler.js",
   "dependencies": {
